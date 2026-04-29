@@ -1,2 +1,2 @@
 project_id  = "terraform-494805"
-bucket_name = "bucket-name-12345"
+bucket_name = "mohit-rawat-nbotics-bucket-0001"
